@@ -9,7 +9,7 @@ class Outer{
 		}
 	} //Inner class close
 	
-}
+} //Outer class close
 
 public class Inner1 {
 
